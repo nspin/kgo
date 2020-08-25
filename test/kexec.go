@@ -1,10 +1,10 @@
 package main
 
 import (
-    // "github.com/nspin/kgo/pkg/fdt"
-    "fmt"
+	// "github.com/nspin/kgo/pkg/fdt"
+	"fmt"
 )
 
 func main() {
-    fmt.Println("TODO")
+	fmt.Println("TODO")
 }
