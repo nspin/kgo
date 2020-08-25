@@ -1,6 +1,6 @@
 # kgo
 
-kexec implemented in pure Go, with some extra flexibility.
+`kexec` implemented in pure Go, with some extra flexibility.
 Designed to boot a type-1 hypervisor such as Xen or Hafnium, with [LinuxBoot](https://www.linuxboot.org/) in mind.
 
 ### Usage
