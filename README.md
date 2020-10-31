@@ -8,7 +8,7 @@ Designed to boot a type-1 hypervisor such as Xen or Hafnium, with [LinuxBoot](ht
 ```
 Usage of kgo
   -dtb string
-        path of dtb (default: /sys/firmware/fdt) (default "/sys/firmware/fdt")
+        path of dtb (default "/sys/firmware/fdt")
   -initrd string
         path of initrd (optional)
   -linux string
